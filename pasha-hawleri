@@ -1,0 +1,19 @@
+pkg update 
+
+pkg upgrade 
+
+pkg install python 
+
+pkg install python2 
+
+pkg install git 
+
+pip2 install requests 
+
+pip2 install tqdm 
+
+git clone https://github.com/LoSt-SoFtware/CAT 
+
+cd CAT 
+
+python2 cat.py
